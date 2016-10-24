@@ -1,0 +1,80 @@
+[
+    {
+        "id": "771350404",
+        "title": "The Secret Life of Pets",
+        "release_date": "2016-07-08",
+        "poster_url": "https://resizing.flixster.com/k1UJLN8XQTzlE_HjYXZTvKk-ZsY=/51x81/v1.bTsxMTUxMDc2OTtqOzE3MTM3OzIwNDg7NDgwOzc2MA",
+        "synopsis": "For their fifth fully-animated feature-film collaboration, Illumination Entertainment and Universal Pictures present The Secret Life of Pets, a comedy about the lives our pets lead after we leave for work or school each day. Comedy superstars Louis C.K., Eric Stonestreet and Kevin Hart make their animated feature-film debuts in The Secret Life of Pets, which co-stars Ellie Kemper, Lake Bell, Jenny Slate, Bobby Moynihan, Hannibal Buress and Albert Brooks. Illumination founder and CEO Chris Meledandri and his longtime collaborator Janet Healy produce the film directed by Chris Renaud (Despicable Me, Despicable Me 2), co-directed by Yarrow Cheney and written by Brian Lynch and Cinco Paul & Ken Daurio.",
+        "ratings": {
+            "critics_rating":"Certified Fresh",
+            "critics_score":74,
+            "audience_rating":"Upright",
+            "audience_score":68
+        }
+    },
+     {
+        "id": "771374700",
+        "title": "The Legend of Tarzan",
+        "release_date": "2016-07-01",
+        "poster_url": "https://resizing.flixster.com/7F5cF8LLuxHXur6vVXwTnlae-f4=/54x80/v1.bTsxMTk1NDYwNjtqOzE3MDU0OzIwNDg7NTc0Ozg1MQ",
+        "synopsis": "It has been years since the man once known as Tarzan (Alexander Skarsgard) left the jungles of Africa behind for a gentrified life as John Clayton III, Lord Greystoke, with his beloved wife, Jane (Margot Robbie) at his side. Now, he has been invited back to the Congo to serve as a trade emissary of Parliament, unaware that he is a pawn in a deadly convergence of greed and revenge, masterminded by the Belgian, Captain Leon Rom (Christoph Waltz). But those behind the murderous plot have no idea what they are about to unleash.",
+        "ratings":{
+            "critics_rating":"Rotten",
+            "critics_score":36,
+            "audience_rating":"Upright",
+            "audience_score":70
+        }
+    },
+    {
+        "id": "771353630",
+        "title": "Finding Dory",
+        "release_date": "2016-06-17",
+        "poster_url": "https://resizing.flixster.com/IuZITzGSOvNaS0ovyN1HvaaRh20=/54x80/v1.bTsxMTY4NTUzMDtwOzE3MDMwOzIwNDg7NDMyOzYzNw",
+        "synopsis":"\"Finding Dory\" reunites the friendly-but-forgetful blue tang fish with her loved ones, and everyone learns a few things about the true meaning of family along the way. The all-new big-screen adventure dives into theaters in 2016, taking moviegoers back to the extraordinary underwater world from the original film.",
+        "ratings":{
+            "critics_rating":"Certified Fresh",
+            "critics_score":95,
+            "audience_rating":"Upright",
+            "audience_score":89
+        }
+    },
+    {
+        "id": "771410851",
+        "title": "Mike and Dave Need Wedding Dates",
+        "release_date": "2016-07-08",
+        "poster_url": "https://resizing.flixster.com/1lVlxNnv0mPXRIJYVYFviz5gLg8=/54x77/v1.bTsxMTU2NDM5NztqOzE3MTI1OzIwNDg7Mjg0OzQwNQ",
+        "synopsis":"Hard-partying brothers Mike (Adam Devine) and Dave (Zac Efron) place an online ad to find the perfect dates (Anna Kendrick, Aubrey Plaza) for their sister's Hawaiian wedding. Hoping for a wild getaway, the boys instead find themselves outsmarted and out-partied by the uncontrollable duo.",
+        "ratings":{
+            "critics_rating":"Rotten",
+            "critics_score":40,
+            "audience_rating":"Upright",
+            "audience_score":68
+        }
+    },
+     {
+        "id": "771411544",
+        "title": "The Purge: Election Year",
+        "release_date": "2016-07-01",
+        "poster_url": "https://resizing.flixster.com/QjKx1-jyHtHX1V89fiOlPZDCXho=/51x81/v1.bTsxMjAwNzY3NDtqOzE3MDIyOzIwNDg7NTAwMDs3OTE3",
+        "synopsis":"Writer/director James DeMonaco returns for the third installment of the franchise starring Frank Grillo.",
+        "ratings":{
+            "critics_rating":"Rotten",
+            "critics_score":52,
+            "audience_rating":"Upright",
+            "audience_score":61
+        }
+    },
+    {
+        "id": "771403192",
+        "title": "Central Intelligence",
+        "release_date": "2016-06-17",
+        "poster_url": "https://resizing.flixster.com/2P5JFn25p39MnM04vMSyJcnGl-A=/54x80/v1.bTsxMTk0NjQ4MztqOzE3MDMxOzIwNDg7ODAwOzExODY",
+        "synopsis":"The story follows a one-time bullied geek, Bob, who grew up to be a lethal CIA agent, coming home for his high school reunion. Claiming to be on a top-secret case, he enlists the help of former \"big man on campus,\" Calvin, now an accountant who misses his glory days. But before the staid numbers-cruncher realizes what he's getting into, it's too late to get out, as his increasingly unpredictable new friend drags him through a world of shoot-outs, double-crosses and espionage that could get them both killed in more ways than Calvin can count.",
+        "ratings":{
+            "critics_rating":"Fresh",
+            "critics_score":68,
+            "audience_rating":"Upright",
+            "audience_score":70
+        }
+    }
+]
